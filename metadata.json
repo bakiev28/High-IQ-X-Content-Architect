@@ -1,0 +1,6 @@
+{
+  "name": "High-IQ X Content Architect",
+  "description": "Multi-agent research and high-density Twitter/X content generator driving deep analytical output from research papers and tech topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
